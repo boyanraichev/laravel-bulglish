@@ -24,7 +24,7 @@
 	            "Boyo\\Bulglish\\BulglishServiceProvider"
 	        ],
 	        "aliases": {
-		        "Bulglish": "Boyo\\Bulglish\\Bulglish",
+		        "Bulglish": "Boyo\\Bulglish\\Bulglish"
 	        }
 	    },
         "branch-alias" : {
