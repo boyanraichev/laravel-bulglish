@@ -14,17 +14,17 @@
         "laravel/framework": ">=5.5"
     },
     "autoload": {
-		"psr-4": {
-			"Boyo\\Bulglish\\": "src/"
+	"psr-4": {
+		"Boyo\\Bulglish\\": "src/"
     	}
-	},
+    },
     "extra": {
 	    "laravel": {
 	        "providers": [
 	            "Boyo\\Bulglish\\BulglishServiceProvider"
 	        ],
 	        "aliases": {
-		        "Bulglish": "Boyo\\Bulglish\\Bulglish",
+		        "Bulglish": "Boyo\\Bulglish\\Bulglish"
 	        }
 	    },
         "branch-alias" : {
