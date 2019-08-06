@@ -52,7 +52,7 @@ class Bulglish {
 		
 	}
 	
-	private function toLatin($text) {
+	public static function toLatin($text) {
 		
 		$expressions = [
 			'/[И][Я]/u' => 'Ia',
