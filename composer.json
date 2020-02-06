@@ -3,6 +3,7 @@
     "description": "Bulgarian cyrillic to latin transliteration package",
     "keywords": ["laravel", "transliteration", "cyrillic"],
     "homepage": "https://github.com/boyanraichev/laravel-bulglish",
+    "license": "MIT",
     "authors": [
         {
             "name": "Boyan Raichev",
@@ -26,9 +27,6 @@
 	        "aliases": {
 		        "Bulglish": "Boyo\\Bulglish\\Bulglish"
 	        }
-	    },
-        "branch-alias" : {
-            "dev-master" : "1.0-dev"
-        }
+	    }
     }
 }
